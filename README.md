@@ -27,10 +27,10 @@ This project is a solution to the **String Calculator TDD Kata** from Incubyte's
 ## Project Structure
 
 string-calculator/
-├── calculator.js # Main calculator logic
-├── calculator.test.js # Unit tests using Jest
-├── package.json
-└── README.md
+- ├── calculator.js # Main calculator logic
+- ├── calculator.test.js # Unit tests using Jest
+- ├── package.json
+- └── README.md
 
 ## TO RUN TEST CASES
 npm test
